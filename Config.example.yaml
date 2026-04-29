@@ -1,0 +1,81 @@
+Discord:
+  BotToken: "YOUR_DISCORD_BOT_TOKEN"  # https://discord.com/developers/applications
+  ClientID: "YOUR_CLIENT_ID" # https://discord.com/developers/applications
+  BotPrefix: ";" 
+
+  BotStatus:
+    Status: "DND"  # ONLINE | IDLE | DND | INVISIBLE
+    Text: ""
+
+  BotActivity:
+    Type: "WATCHING"  # PLAYING | STREAMING | LISTENING | WATCHING
+    Text: "sellauth.com"
+
+  Users:
+    Owners:        [""]
+    Developers:    [""]
+    ExtraOwners:   [""]
+  StaffRoles: []
+
+  Embeds:
+    Colour:
+      Error:   "#ff2b56"
+      Success: "#00ff77"
+      Warn:    "#f0ff7a"
+      Debug:   "#c4fff4"
+
+    Footer:
+      Text:      "Sellauth AIO"
+      Icon:      ""
+      Timestamp: true
+
+
+CommandsSettings:
+  EnableSlash:  true
+  EnablePrefix: true
+
+  Cooldown:
+    PerUser:  3
+    PerStaff: 1
+    Ignore:
+      Guild: []
+      Users: []
+
+
+# ────────────────────────────────────────────────────────────────────────────
+# SellAuth API config — get your API key at:
+# Dashboard → Account → API → Create token
+#
+# DefaultShopId: shopId most commands will use unless overridden via the
+#                `shop` slash option. Required because every endpoint
+#                except `/v1/shops` is scoped to a shop.
+# ────────────────────────────────────────────────────────────────────────────
+SellAuth:
+  BaseURL:        "https://api.sellauth.com/v1"
+  ApiKey:         "YOUR_SELLAUTH_API_KEY"  # https://dash.sellauth.com/api
+  DefaultShopId:  "YOUR_SELLAUTH_API_KEY"  # https://dash.sellauth.com/api
+  Timeout:        15000  # ms
+  PerPage:        15     # default pagination size for list commands
+
+
+LogSettings:
+  BotLogs:
+    Enable:    false
+    Type:      "Channel"   # Channel | Webhook
+    ChannelID: ""
+    Webhook:   ""
+  Commands:
+    Enable:    false
+    Type:      "Channel"
+    ChannelID: ""
+    Webhook:   ""
+  Api:
+    Enable:    true
+    Type:      "Channel"
+    ChannelID: ""
+    Webhook:   ""
+  DebugLog:
+    Enable:    false
+    Type:      "Channel"
+    ChannelID: ""
+    Webhook:   ""
