@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/SellAuth-AIO%20Bot-00ff77?style=for-the-badge&logo=discord&logoColor=white" alt="SellAuth AIO Bot"/>
 
-# 🛒 SellAuth AIO — Discord Bot
+# <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6d2.svg" width="32" align="center"/> SellAuth AIO — Discord Bot
 
 **A fully-featured Discord bot to manage your [SellAuth](https://sellauth.com) shop directly from Discord.**  
 Supports slash commands, prefix commands, pagination, autocomplete, and full API coverage.
@@ -16,50 +16,50 @@ Supports slash commands, prefix commands, pagination, autocomplete, and full API
 
 ---
 
-## ✨ Features
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="22" align="center"/> Features
 
-- 🛠️ **Full SellAuth API coverage** — Products, Invoices, Customers, Coupons, Payments, Tickets, and more
-- ⚡ **Slash commands** with autocomplete for IDs (products, invoices, customers, etc.)
-- 💬 **Prefix commands** (configurable prefix, default `;`)
-- 📄 **Paginated list views** with interactive ◀ / ▶ buttons
-- 🔒 **Owner/Developer permission system**
-- ⏱️ **Per-user and per-staff cooldowns**
-- 📊 **Logging** to Discord channels or webhooks
-- 🔁 **Automatic retry** on rate limits and 5xx errors
-- 🖼️ **Image upload** via Discord attachments or URL
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" width="16"/> **Full SellAuth API coverage** — Products, Invoices, Customers, Coupons, Payments, Tickets, and more
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/26a1.svg" width="16"/> **Slash commands** with autocomplete for IDs (products, invoices, customers, etc.)
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ac.svg" width="16"/> **Prefix commands** (configurable prefix, default `;`)
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c4.svg" width="16"/> **Paginated list views** with interactive ◀ / ▶ buttons
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f512.svg" width="16"/> **Owner/Developer permission system**
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/23f1.svg" width="16"/> **Per-user and per-staff cooldowns**
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" width="16"/> **Logging** to Discord channels or webhooks
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f501.svg" width="16"/> **Automatic retry** on rate limits and 5xx errors
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5bc.svg" width="16"/> **Image upload** via Discord attachments or URL
 
 ---
 
-## 📦 Command Categories
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4e6.svg" width="22" align="center"/> Command Categories
 
 | Category | Command | Description |
 |----------|---------|-------------|
-| 🏪 Shops | `/shops` | List, create, update, delete shops & stats |
-| 📦 Products | `/products` | Full product CRUD, stock, deliverables, bulk updates |
-| 🧾 Invoices | `/invoices` | List, refund, cancel, archive, PDF, replace delivered |
-| 👤 Customers | `/customers` | Manage customers, balances, affiliate codes |
-| 🎟️ Coupons | `/coupons` | Create, update, delete coupons |
-| 💳 Payment Methods | `/payments` | List, create, toggle, reorder payment methods |
-| 🗂 Categories | `/categories` | Product category management |
-| 🧱 Groups | `/groups` | Product group management |
-| 📝 Blog Posts | `/blogs` | Blog post CRUD |
-| 💬 Feedbacks | `/feedbacks` | Reply, dispute, filter feedbacks |
-| 🎫 Tickets | `/tickets` | Create, close, reply to support tickets |
-| 🚫 Blacklist | `/blacklist` | Block emails, IPs, Discord IDs, etc. |
-| 🌐 Domains | `/domains` | Manage custom domains |
-| 🧩 Custom Fields | `/customfields` | Product custom fields |
-| 🖼 Images | `/images` | Upload (attachment or URL), delete, bulk delete |
-| 🪙 Crypto | `/crypto` | Payout history, balances, send payouts |
-| 🛒 Checkout | `/checkout` | Create checkout sessions (Business plan) |
-| 📊 Analytics | `/analytics` | Revenue overview, graph, top products & customers |
-| 📜 Activity | `/activity` | Activity log viewer |
-| 🔔 Notifications | `/notifications` | View and configure notifications |
-| 🔧 Raw API | `/sa` | Raw passthrough to any SellAuth endpoint |
-| ✨ Help | `/help` | Interactive command list by category |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3ea.svg" width="16"/> Shops | `/shops` | List, create, update, delete shops & stats |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4e6.svg" width="16"/> Products | `/products` | Full product CRUD, stock, deliverables, bulk updates |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9fe.svg" width="16"/> Invoices | `/invoices` | List, refund, cancel, archive, PDF, replace delivered |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f464.svg" width="16"/> Customers | `/customers` | Manage customers, balances, affiliate codes |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f39f.svg" width="16"/> Coupons | `/coupons` | Create, update, delete coupons |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4b3.svg" width="16"/> Payment Methods | `/payments` | List, create, toggle, reorder payment methods |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5c2.svg" width="16"/> Categories | `/categories` | Product category management |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9f1.svg" width="16"/> Groups | `/groups` | Product group management |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4dd.svg" width="16"/> Blog Posts | `/blogs` | Blog post CRUD |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ac.svg" width="16"/> Feedbacks | `/feedbacks` | Reply, dispute, filter feedbacks |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3ab.svg" width="16"/> Tickets | `/tickets` | Create, close, reply to support tickets |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6ab.svg" width="16"/> Blacklist | `/blacklist` | Block emails, IPs, Discord IDs, etc. |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="16"/> Domains | `/domains` | Manage custom domains |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e9.svg" width="16"/> Custom Fields | `/customfields` | Product custom fields |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5bc.svg" width="16"/> Images | `/images` | Upload (attachment or URL), delete, bulk delete |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1fa99.svg" width="16"/> Crypto | `/crypto` | Payout history, balances, send payouts |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6d2.svg" width="16"/> Checkout | `/checkout` | Create checkout sessions (Business plan) |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" width="16"/> Analytics | `/analytics` | Revenue overview, graph, top products & customers |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4dc.svg" width="16"/> Activity | `/activity` | Activity log viewer |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f514.svg" width="16"/> Notifications | `/notifications` | View and configure notifications |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f527.svg" width="16"/> Raw API | `/sa` | Raw passthrough to any SellAuth endpoint |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2728.svg" width="16"/> Help | `/help` | Interactive command list by category |
 
 ---
 
-## 🚀 Getting Started
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f680.svg" width="22" align="center"/> Getting Started
 
 ### Prerequisites
 
@@ -106,7 +106,7 @@ SellAuth:
   DefaultShopId: "YOUR_DEFAULT_SHOP_ID"   # Your main shop ID
 ```
 
-> 💡 You can find your SellAuth API key at: **Dashboard → Account → API → Create token**
+> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4a1.svg" width="15"/> You can find your SellAuth API key at: **Dashboard → Account → API → Create token**
 
 ---
 
@@ -123,7 +123,7 @@ The bot will:
 
 ---
 
-## ⚙️ Configuration Reference
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg" width="22" align="center"/> Configuration Reference
 
 `Config.yaml` supports the following sections:
 
@@ -177,7 +177,7 @@ Available log targets: `BotLogs`, `Commands`, `Api`, `DebugLog`
 
 ---
 
-## 🗂 Project Structure
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5c2.svg" width="22" align="center"/> Project Structure
 
 ```
 .
@@ -232,7 +232,7 @@ Available log targets: `BotLogs`, `Commands`, `Api`, `DebugLog`
 
 ---
 
-## 🤝 Contributing
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f91d.svg" width="22" align="center"/> Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
@@ -244,7 +244,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📄 License
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c4.svg" width="22" align="center"/> License
 
 This project is licensed under the [MIT License](LICENSE).
 
@@ -252,7 +252,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made with ❤️ by [lampuoghini](https://github.com/lampuoghini)  
+Made with <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2764.svg" width="15"/> by [lampuoghini](https://github.com/lampuoghini)  
 Powered by [SellAuth](https://sellauth.com) • Built with [discord.js](https://discord.js.org)
 
 </div>
