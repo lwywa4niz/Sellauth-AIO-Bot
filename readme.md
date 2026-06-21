@@ -250,9 +250,44 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f496.svg" width="22" align="center"/> Donate
+
 <div align="center">
+
+If this project helped you, consider supporting its development — every bit is appreciated! <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f64f.svg" width="16"/>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/USDT-Polygon-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="USDT Polygon"/>
+    </td>
+    <td><code>0xfCc8d58C8577B3aDA2fd27b9a368F3d6DEC947A5</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Litecoin-LTC-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" alt="Litecoin"/>
+    </td>
+    <td><code>LcggSz6zqNzPejreVmG3y6LpPzCCkfnpf2</code></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ec.svg" width="20" align="center"/> Contact
+
+[![Discord](https://img.shields.io/badge/Discord-2rht-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/961994878546485268)
+[![Telegram](https://img.shields.io/badge/Telegram-@swllette-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/swllette)
+[![Store](https://img.shields.io/badge/Store-store.waniboostz.cc-7076CC?style=for-the-badge&logo=shopify&logoColor=white)](https://store.waniboostz.cc)
+
+<br>
 
 Made with <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2764.svg" width="15"/> by [lampuoghini](https://github.com/lampuoghini)  
 Powered by [SellAuth](https://sellauth.com) • Built with [discord.js](https://discord.js.org)
+
+**Thank you for your support! <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b50.svg" width="15"/> Star the repo if you like it!**
 
 </div>
